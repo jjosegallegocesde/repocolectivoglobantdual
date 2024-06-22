@@ -1,2 +1,4 @@
 # repocolectivoglobantdual
-James Alejandro Gómez Cuervo
+# James Alejandro Gómez Cuervo
+
+# Juan Diego Sanchez Martinez
