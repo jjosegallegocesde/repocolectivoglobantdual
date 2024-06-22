@@ -1,1 +1,2 @@
-# repocolectivoglobantdual
+# repocolectivogloba
+Alex Santiago Diaz
